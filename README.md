@@ -27,14 +27,19 @@
 2.Install dependencies for client and server:
 
 ---bash
+
 cd client
+
 npm install
+
 cd ../server
+
 npm install
 
 3.Create a .env file inside the server folder:
 
 env
+
 MONGO_URI=your_mongodb_connection_string
 PORT=
 
