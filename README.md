@@ -46,10 +46,12 @@ PORT=
 4.Run the project:
 
 ---bash
-# In the server directory
+#in the server directory
+
 npm start
 
-# In another terminal, go to the client directory
+#in another terminal,go to the client directory
+
 npm start
 
 #Video Demo link-https://www.linkedin.com/in/saniya-mane-5906a3289/
